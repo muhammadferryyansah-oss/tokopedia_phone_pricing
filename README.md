@@ -16,7 +16,7 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ## Executive Visualizations
 
 ### 1. Price Tier Distribution by Brand
-![Price Tier Distribution](./figures/1_price_tier_distribution.png)
+![Price Tier Distribution](figures/1_price_tier_distribution.png)
 
 * **Market Share Footprint:** `Samsung` maintains an active footprint across every pricing tier, acting as the benchmark competitor from budget to ultra-flagship. `Apple` exclusively monopolizes the Flagship tier (> Rp10M) with zero presence in budget categories for new retail units.
 * **Volume Anchors:** `Infinix`, `Xiaomi/Redmi`, and `Vivo` drive bulk volume in the Sub-5M segments, validating high price sensitivity among mass-market consumers.
@@ -24,7 +24,7 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ---
 
 ### 2. Price Dispersion & Outlier Analysis (Logarithmic Scale)
-![Price Range Boxplot](./figures/2_price_range_boxplot.png)
+![Price Range Boxplot](figures/2_price_range_boxplot.png)
 
 * **Variance Spread:** Log-scale distribution confirms substantial interquartile ranges (IQR) for `Apple` and `Samsung`, driven by distinct tier segmentation (base models vs. Pro/Ultra variants).
 * **Segment Discipline:** Value-focused manufacturers maintain tight, predictable price bands, avoiding cannibalization across product iterations.
@@ -32,7 +32,7 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ---
 
 ### 3. Storage Efficiency Metric (Median Price per GB)
-![Storage Efficiency](./figures/3_value_per_gb_storage.png)
+![Storage Efficiency](figures/3_value_per_gb_storage.png)
 
 * **Hardware Utility:** Median cost per gigabyte exposes direct hardware margins. `Infinix` (Rp15,525/GB), `Vivo` (Rp18,485/GB), and `Xiaomi` (Rp19,133/GB) offer maximum storage utility per rupiah.
 * **Ecosystem Surcharge:** `Apple` trades at a massive premium, demonstrating that consumer willingness to pay is decoupled from raw hardware cost and tied directly to ecosystem retention.
