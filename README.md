@@ -16,7 +16,9 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ## Executive Visualizations
 
 ### 1. Price Tier Distribution by Brand
-![Price Tier Distribution](figures/1_price_tier_distribution.png)
+
+<img width="3000" height="1800" alt="1_price_tier_distribution" src="https://github.com/user-attachments/assets/2c331120-3192-4549-825c-f13e0622a015" />
+
 
 * **Market Share Footprint:** `Samsung` maintains an active footprint across every pricing tier, acting as the benchmark competitor from budget to ultra-flagship. `Apple` exclusively monopolizes the Flagship tier (> Rp10M) with zero presence in budget categories for new retail units.
 * **Volume Anchors:** `Infinix`, `Xiaomi/Redmi`, and `Vivo` drive bulk volume in the Sub-5M segments, validating high price sensitivity among mass-market consumers.
@@ -24,7 +26,9 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ---
 
 ### 2. Price Dispersion & Outlier Analysis (Logarithmic Scale)
-![Price Range Boxplot](figures/2_price_range_boxplot.png)
+
+<img width="3000" height="1800" alt="2_price_range_boxplot" src="https://github.com/user-attachments/assets/2052b8fe-47fb-4ce2-a3d8-7300a594b3f1" />
+
 
 * **Variance Spread:** Log-scale distribution confirms substantial interquartile ranges (IQR) for `Apple` and `Samsung`, driven by distinct tier segmentation (base models vs. Pro/Ultra variants).
 * **Segment Discipline:** Value-focused manufacturers maintain tight, predictable price bands, avoiding cannibalization across product iterations.
@@ -32,7 +36,7 @@ An end-to-end data analytics project evaluating pricing dispersion, specificatio
 ---
 
 ### 3. Storage Efficiency Metric (Median Price per GB)
-![Storage Efficiency](figures/3_value_per_gb_storage.png)
+<img width="3000" height="1800" alt="3_value_per_gb_storage" src="https://github.com/user-attachments/assets/e904b956-ab12-4d9a-b5f8-474a58bcf90e" />
 
 * **Hardware Utility:** Median cost per gigabyte exposes direct hardware margins. `Infinix` (Rp15,525/GB), `Vivo` (Rp18,485/GB), and `Xiaomi` (Rp19,133/GB) offer maximum storage utility per rupiah.
 * **Ecosystem Surcharge:** `Apple` trades at a massive premium, demonstrating that consumer willingness to pay is decoupled from raw hardware cost and tied directly to ecosystem retention.
